@@ -20,3 +20,21 @@ header nav a {
   padding: 32px;
   text-decoration: none;
 }
+
+h1,
+h2 {
+    font-weight: 600;
+    font-size: 32px;
+    margin-bottom: 32px;
+}
+#inicio {
+    display: flex;
+    align-items: center;
+    padding: 24px 80px 128px 80px;
+    gap: 32px;
+    position: relative;
+}
+.paragrafo {
+  line-height: 150%;
+  margin-bottom: 32px;
+}
